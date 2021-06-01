@@ -434,9 +434,9 @@
                     "paddingBlock": "10px",
                     "flexDirection": "row",
                     "alignItems": "center",
-                    "justifyContent": "space-between",
+                    "justifyContent": "center",
                     "alignContent": "unset",
-                    "minHeight": ""
+                    "minHeight": "350px"
                 }
             },
             "cmps": [
