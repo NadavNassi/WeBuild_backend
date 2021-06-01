@@ -54,3 +54,5 @@
 6/1/2021, 9:11:44 PM - ERROR - Failed to get toys | ReferenceError: wap is not defined 
 6/1/2021, 9:11:55 PM - INFO - Server is running on port: 3030 
 6/1/2021, 9:16:16 PM - INFO - Server is running on port: 3030 
+6/1/2021, 9:43:29 PM - INFO - Server is running on port: 3030 
+6/1/2021, 10:13:09 PM - INFO - Server is running on port: 3030 
