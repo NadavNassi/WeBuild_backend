@@ -12,7 +12,6 @@ async function getWaps(req, res) {
 }
 
 async function updateWap(req, res) {
-    console.log("🚀 ~ file: wap.controller.js ~ line 15 ~ updateWap ~ req", req.body)
     const wapToSave = req.body
     try {
         const wap = await wapService.updateWap(wapToSave)
