@@ -35,9 +35,6 @@
     |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
     --- property 'topology' closes the circle 
 6/1/2021, 3:37:31 PM - INFO - Server is running on port: 3030 
-<<<<<<< HEAD
-6/1/2021, 8:44:39 PM - INFO - Server is running on port: 3030 
-=======
 6/1/2021, 7:31:56 PM - INFO - Server is running on port: 3030 
 6/1/2021, 8:18:04 PM - INFO - Server is running on port: 3030 
 6/1/2021, 8:22:09 PM - INFO - Server is running on port: 3030 
@@ -57,4 +54,4 @@
 6/1/2021, 9:11:44 PM - ERROR - Failed to get toys | ReferenceError: wap is not defined 
 6/1/2021, 9:11:55 PM - INFO - Server is running on port: 3030 
 6/1/2021, 9:16:16 PM - INFO - Server is running on port: 3030 
->>>>>>> 570593114ca03e2e40f819654f6afbb48ec3bdbd
+6/1/2021, 9:29:52 PM - INFO - Server is running on port: 3030 
