@@ -26,6 +26,7 @@ async function createWap(req, res) {
     const wapToSave = req.body
     try {
         const wap = await wapService.createWap(wapToSave)
+        res.send(wap)
     } catch (err) {
         logger.error('Failed to save wap', err)
         res.status(500).send({ err })
