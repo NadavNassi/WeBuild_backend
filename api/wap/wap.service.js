@@ -15,6 +15,19 @@ async function query() {
     }
 }
 
+async function createWap(wap) {
+    try {
+        const collection = await dbService.getCollection(collectionName)
+        wap.isPublic = true
+        await collection.insertOne(wap)
+        return wap
+    } catch (err) {
+        logger.error('Failed to create wap', err)
+        throw err
+    }
+}
+
+
 async function updateWap(wap) {
     console.log("🚀 ~ file: wap.service.js ~ line 19 ~ updateWap ~ wap", wap)
     const { _id } = wap
@@ -31,5 +44,6 @@ async function updateWap(wap) {
 
 module.exports = {
     query,
-    updateWap
+    updateWap,
+    createWap
 }
