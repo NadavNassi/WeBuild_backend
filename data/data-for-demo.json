@@ -1,0 +1,1418 @@
+{
+    "_id": "60b62978b38fddf7af36b71b",
+    "cmps": [
+        {
+            "id": "9HERMV",
+            "sectionType": "Header-section",
+            "url": "https://res.cloudinary.com/triplen91/image/upload/v1622702747/Screen_Shot_2021-06-03_at_9.44.45_c1yo7r.png",
+            "type": "wap-section",
+            "info": {
+                "style": {
+                    "backgroundImage": "",
+                    "backgroundColor": "rgba(250,248,241,1)",
+                    "paddingInline": "38px",
+                    "paddingBlock": "48px",
+                    "flexDirection": "row",
+                    "alignItems": "center",
+                    "justifyContent": "space-between",
+                    "alignContent": "unset",
+                    "minHeight": ""
+                }
+            },
+            "cmps": [
+                {
+                    "id": "6oWApc",
+                    "type": "wap-text",
+                    "info": {
+                        "txt": "Laurance",
+                        "style": {
+                            "fontSize": "45px",
+                            "textAlign": "center",
+                            "textDecoration": "",
+                            "fontWeight": "",
+                            "fontStyle": "",
+                            "color": "rgba(0,0,0,1)",
+                            "backgroundColor": "rgba(250,248,241,1)",
+                            "fontFamily": "Ariel",
+                            "textShadow": "",
+                            "paddingInline": "9px",
+                            "paddingBlock": "10px",
+                            "letterSpacing": "0px",
+                            "borderWidth": "0px",
+                            "borderColor": "0px",
+                            "borderRadius": "0px"
+                        }
+                    },
+                    "cmps": []
+                },
+                {
+                    "id": "XIFlDf",
+                    "type": "wap-nav",
+                    "info": {
+                        "style": {
+                            "flexDirection": "row",
+                            "alignItems": "center",
+                            "justifyContent": "flex-end",
+                            "alignContent": "center"
+                        }
+                    },
+                    "cmps": [
+                        {
+                            "id": "oqqdp5",
+                            "type": "wap-btn",
+                            "info": {
+                                "txt": "Reservation",
+                                "action": {
+                                    "link": "url"
+                                },
+                                "style": {
+                                    "fontSize": "20px",
+                                    "textAlign": "center",
+                                    "textDecoration": "",
+                                    "fontWeight": "",
+                                    "fontStyle": "",
+                                    "color": "rgba(0,0,0,1)",
+                                    "backgroundColor": "inherit",
+                                    "fontFamily": "roboto",
+                                    "textShadow": "",
+                                    "paddingInline": "10px",
+                                    "paddingBlock": "10px",
+                                    "letterSpacing": "0px",
+                                    "borderWidth": "0px",
+                                    "borderColor": "0px",
+                                    "borderRadius": "15px"
+                                }
+                            }
+                        },
+                        {
+                            "id": "PtzmDA",
+                            "type": "wap-btn",
+                            "info": {
+                                "txt": "Menu",
+                                "action": {
+                                    "link": "url"
+                                },
+                                "style": {
+                                    "fontSize": "20px",
+                                    "textAlign": "center",
+                                    "textDecoration": "",
+                                    "fontWeight": "",
+                                    "fontStyle": "",
+                                    "color": "rgba(0,0,0,1)",
+                                    "backgroundColor": "inherit",
+                                    "fontFamily": "roboto",
+                                    "textShadow": "",
+                                    "paddingInline": "10px",
+                                    "paddingBlock": "10px",
+                                    "letterSpacing": "0px",
+                                    "borderWidth": "0px",
+                                    "borderColor": "0px",
+                                    "borderRadius": "15px"
+                                }
+                            }
+                        },
+                        {
+                            "id": "L1krcR",
+                            "type": "wap-btn",
+                            "info": {
+                                "txt": "About",
+                                "action": {
+                                    "link": "url"
+                                },
+                                "style": {
+                                    "fontSize": "20px",
+                                    "textAlign": "center",
+                                    "textDecoration": "",
+                                    "fontWeight": "",
+                                    "fontFamily": "roboto",
+                                    "fontStyle": "",
+                                    "color": "rgba(0,0,0,1)",
+                                    "backgroundColor": "inherit",
+                                    "textShadow": "",
+                                    "paddingInline": "10px",
+                                    "paddingBlock": "10px",
+                                    "letterSpacing": "0px",
+                                    "borderWidth": "0px",
+                                    "borderColor": "0px",
+                                    "borderRadius": "15px"
+                                }
+                            }
+                        },
+                        {
+                            "id": "tncqwn",
+                            "type": "wap-btn",
+                            "info": {
+                                "txt": "Contact",
+                                "action": {
+                                    "link": "url"
+                                },
+                                "style": {
+                                    "fontSize": "20px",
+                                    "textAlign": "center",
+                                    "textDecoration": "",
+                                    "fontWeight": "",
+                                    "fontFamily": "roboto",
+                                    "fontStyle": "",
+                                    "color": "rgba(0,0,0,1)",
+                                    "backgroundColor": "inherit",
+                                    "textShadow": "",
+                                    "paddingInline": "10px",
+                                    "paddingBlock": "10px",
+                                    "letterSpacing": "0px",
+                                    "borderWidth": "0px",
+                                    "borderColor": "0px",
+                                    "borderRadius": "15px"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "KNHT51",
+                    "type": "wap-btn",
+                    "info": {
+                        "txt": "Order Online",
+                        "action": {
+                            "link": "url"
+                        },
+                        "style": {
+                            "fontSize": "18px",
+                            "textAlign": "center",
+                            "textDecoration": "",
+                            "fontWeight": "",
+                            "fontFamily": "montserrat_alternates",
+                            "fontStyle": "",
+                            "color": "rgba(255,255,255,1)",
+                            "backgroundColor": "rgba(124,108,80,1)",
+                            "textShadow": "",
+                            "paddingInline": "35px",
+                            "paddingBlock": "19px",
+                            "letterSpacing": "0px",
+                            "borderWidth": "0px",
+                            "borderColor": "0px",
+                            "borderRadius": "15px"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "header01",
+            "sectionType": "Header-section",
+            "url": "https://res.cloudinary.com/triplen91/image/upload/v1622701638/Screen_Shot_2021-06-03_at_9.27.00_w8rmqk.png",
+            "type": "wap-section",
+            "info": {
+                "style": {
+                    "backgroundImage": "",
+                    "backgroundColor": "#101010",
+                    "paddingInline": "30px",
+                    "paddingBlock": "8px",
+                    "flexDirection": "row",
+                    "alignItems": "center",
+                    "justifyContent": "space-between",
+                    "alignContent": "unset",
+                    "minHeight": ""
+                }
+            },
+            "cmps": [
+                {
+                    "id": "wc011",
+                    "type": "wap-text",
+                    "info": {
+                        "txt": "Logo",
+                        "style": {
+                            "fontSize": "24px",
+                            "textAlign": "center",
+                            "textDecoration": "",
+                            "fontWeight": "",
+                            "fontStyle": "",
+                            "color": "#ffffff",
+                            "backgroundColor": "#101010",
+                            "fontFamily": "montserrat_alternates",
+                            "textShadow": "",
+                            "paddingInline": "10px",
+                            "paddingBlock": "10px",
+                            "letterSpacing": "0px",
+                            "borderWidth": "0px",
+                            "borderColor": "0px",
+                            "borderRadius": "0px"
+                        }
+                    },
+                    "cmps": []
+                },
+                {
+                    "id": "wc012",
+                    "type": "wap-nav",
+                    "info": {
+                        "style": {
+                            "flexDirection": "row",
+                            "alignItems": "center",
+                            "justifyContent": "flex-end",
+                            "alignContent": "center"
+                        }
+                    },
+                    "cmps": [
+                        {
+                            "id": "wc0121",
+                            "type": "wap-btn",
+                            "info": {
+                                "txt": "Home",
+                                "action": {
+                                    "link": "url"
+                                },
+                                "style": {
+                                    "fontSize": "18px",
+                                    "textAlign": "center",
+                                    "textDecoration": "",
+                                    "fontWeight": "",
+                                    "fontStyle": "",
+                                    "color": "#ffffff",
+                                    "backgroundColor": "inherit",
+                                    "fontFamily": "montserrat_alternates",
+                                    "textShadow": "",
+                                    "paddingInline": "10px",
+                                    "paddingBlock": "10px",
+                                    "letterSpacing": "0px",
+                                    "borderWidth": "0px",
+                                    "borderColor": "0px",
+                                    "borderRadius": "15px"
+                                }
+                            }
+                        },
+                        {
+                            "id": "wc0123",
+                            "type": "wap-btn",
+                            "info": {
+                                "txt": "News",
+                                "action": {
+                                    "link": "url"
+                                },
+                                "style": {
+                                    "fontSize": "18px",
+                                    "textAlign": "center",
+                                    "textDecoration": "",
+                                    "fontWeight": "",
+                                    "fontStyle": "",
+                                    "color": "#ffffff",
+                                    "backgroundColor": "inherit",
+                                    "fontFamily": "montserrat_alternates",
+                                    "textShadow": "",
+                                    "paddingInline": "10px",
+                                    "paddingBlock": "10px",
+                                    "letterSpacing": "0px",
+                                    "borderWidth": "0px",
+                                    "borderColor": "0px",
+                                    "borderRadius": "15px"
+                                }
+                            }
+                        },
+                        {
+                            "id": "wc0122",
+                            "type": "wap-btn",
+                            "info": {
+                                "txt": "About",
+                                "action": {
+                                    "link": "url"
+                                },
+                                "style": {
+                                    "fontSize": "18px",
+                                    "textAlign": "center",
+                                    "textDecoration": "",
+                                    "fontWeight": "",
+                                    "fontFamily": "montserrat_alternates",
+                                    "fontStyle": "",
+                                    "color": "#ffffff",
+                                    "backgroundColor": "inherit",
+                                    "textShadow": "",
+                                    "paddingInline": "10px",
+                                    "paddingBlock": "10px",
+                                    "letterSpacing": "0px",
+                                    "borderWidth": "0px",
+                                    "borderColor": "0px",
+                                    "borderRadius": "15px"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "wc05",
+            "sectionType": "Hero-section",
+            "type": "wap-section",
+            "info": {
+                "txt": "",
+                "style": {
+                    "backgroundImage": "url(https://images.unsplash.com/photo-1555505019-8c3f1c4aba5f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)",
+                    "flexDirection": "column",
+                    "padding": "10px",
+                    "alignItems": "center",
+                    "justifyContent": "center",
+                    "minHeight": "300px"
+                }
+            },
+            "cmps": [
+                {
+                    "id": "wc051",
+                    "type": "wap-text",
+                    "info": {
+                        "txt": "Welcome to my first webApp",
+                        "style": {
+                            "fontSize": "30px",
+                            "color": "#ffffff",
+                            "backgroundColor": "#00000087",
+                            "padding": "",
+                            "marginBottom": "10px",
+                            "borderRadius": "15px",
+                            "textAlign": "center",
+                            "fontFamily": "cursive",
+                            "textDecoration": "unset",
+                            "fontWeight": "unset",
+                            "fontStyle": "unset"
+                        }
+                    },
+                    "cmps": []
+                },
+                {
+                    "id": "wc0511",
+                    "type": "wap-btn",
+                    "info": {
+                        "txt": "Click to Enter!",
+                        "url": "",
+                        "style": {
+                            "borderRadius": "15px",
+                            "backgroundColor": "inherit",
+                            "border": "3px solid black",
+                            "color": "white",
+                            "fontSize": "35px",
+                            "fontFamily": "math"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "cards01",
+            "sectionType": "Cards-section",
+            "type": "wap-section",
+            "info": {
+                "style": {
+                    "backgroundImage": "",
+                    "backgroundColor": "rgba(255,255,255,1)",
+                    "paddingInline": "0px",
+                    "paddingBlock": "19px",
+                    "flexDirection": "row",
+                    "alignItems": "center",
+                    "justifyContent": "center",
+                    "alignContent": "unset",
+                    "minHeight": ""
+                }
+            },
+            "cmps": [
+                {
+                    "id": "card01",
+                    "type": "wap-card",
+                    "info": {
+                        "style": {
+                            "backgroundImage": "",
+                            "backgroundColor": "rgba(197,155,155,1)",
+                            "paddingInline": "19px",
+                            "paddingBlock": "15px",
+                            "flexDirection": "column",
+                            "alignItems": "center",
+                            "justifyContent": "space-around",
+                            "alignContent": "unset",
+                            "borderRadius": "15px",
+                            "minHeight": ""
+                        }
+                    },
+                    "cmps": [
+                        {
+                            "id": "wc093",
+                            "type": "wap-img",
+                            "info": {
+                                "src": "https://robohash.org/WeBuild",
+                                "style": {
+                                    "width": "200px",
+                                    "backgroundColor": "rgba(255,255,255,1)",
+                                    "paddingInline": "5px",
+                                    "paddingBlock": "5px",
+                                    "borderRadius": "50px"
+                                }
+                            },
+                            "cmps": [],
+                            "_id": "nTutx"
+                        },
+                        {
+                            "id": "wc0678",
+                            "type": "wap-text",
+                            "info": {
+                                "txt": "Card 1",
+                                "style": {
+                                    "fontSize": "16px",
+                                    "textAlign": "left",
+                                    "textDecoration": "",
+                                    "fontWeight": "",
+                                    "fontStyle": "",
+                                    "color": "#ffffff",
+                                    "backgroundColor": "",
+                                    "fontFamily": "montserrat_alternates",
+                                    "textShadow": "",
+                                    "paddingInline": "5px",
+                                    "paddingBlock": "5px",
+                                    "borderRadius": "15px",
+                                    "letterSpacing": "0px"
+                                }
+                            },
+                            "cmps": [],
+                            "_id": "0oJNH"
+                        },
+                        {
+                            "id": "wc05932",
+                            "type": "wap-btn",
+                            "info": {
+                                "txt": "DoSomthing",
+                                "action": {
+                                    "link": "url"
+                                },
+                                "style": {
+                                    "textAlign": "center",
+                                    "textDecoration": "",
+                                    "fontWeight": "",
+                                    "fontStyle": "",
+                                    "color": "white",
+                                    "backgroundColor": "inherit",
+                                    "fontFamily": "montserrat_alternates",
+                                    "textShadow": "",
+                                    "fontSize": "18px",
+                                    "paddingInline": "7px",
+                                    "paddingBlock": "0px",
+                                    "letterSpacing": "0px",
+                                    "borderWidth": "1px",
+                                    "borderColor": "black",
+                                    "borderRadius": "21px"
+                                }
+                            }
+                        }
+                    ],
+                    "_id": "Xt4MH"
+                },
+                {
+                    "id": "wc081",
+                    "type": "wap-card",
+                    "info": {
+                        "style": {
+                            "backgroundImage": "",
+                            "backgroundColor": "rgba(197,155,155,1)",
+                            "paddingInline": "19px",
+                            "paddingBlock": "15px",
+                            "flexDirection": "column",
+                            "alignItems": "center",
+                            "justifyContent": "space-around",
+                            "alignContent": "unset",
+                            "borderRadius": "15px",
+                            "minHeight": ""
+                        }
+                    },
+                    "cmps": [
+                        {
+                            "id": "wc093",
+                            "type": "wap-img",
+                            "info": {
+                                "src": "https://robohash.org/Webuild",
+                                "style": {
+                                    "width": "200px",
+                                    "backgroundColor": "rgba(255,255,255,1)",
+                                    "paddingInline": "5px",
+                                    "paddingBlock": "5px",
+                                    "borderRadius": "50px"
+                                }
+                            },
+                            "cmps": [],
+                            "_id": "nTutx"
+                        },
+                        {
+                            "id": "card02",
+                            "type": "wap-text",
+                            "info": {
+                                "txt": "Card 2",
+                                "style": {
+                                    "fontSize": "16px",
+                                    "textAlign": "left",
+                                    "textDecoration": "",
+                                    "fontWeight": "",
+                                    "fontStyle": "",
+                                    "color": "#ffffff",
+                                    "backgroundColor": "",
+                                    "fontFamily": "montserrat_alternates",
+                                    "textShadow": "",
+                                    "paddingInline": "5px",
+                                    "paddingBlock": "5px",
+                                    "borderRadius": "15px",
+                                    "letterSpacing": "0px"
+                                }
+                            },
+                            "cmps": [],
+                            "_id": "0oJNH"
+                        },
+                        {
+                            "id": "wc05932",
+                            "type": "wap-btn",
+                            "info": {
+                                "txt": "DoSomthing",
+                                "action": {
+                                    "link": "url"
+                                },
+                                "style": {
+                                    "textAlign": "center",
+                                    "textDecoration": "",
+                                    "fontWeight": "",
+                                    "fontStyle": "",
+                                    "color": "white",
+                                    "backgroundColor": "inherit",
+                                    "fontFamily": "montserrat_alternates",
+                                    "textShadow": "",
+                                    "fontSize": "18px",
+                                    "paddingInline": "7px",
+                                    "paddingBlock": "0px",
+                                    "letterSpacing": "0px",
+                                    "borderWidth": "1px",
+                                    "borderColor": "black",
+                                    "borderRadius": "21px"
+                                }
+                            }
+                        }
+                    ],
+                    "_id": "X4MH"
+                }
+            ],
+            "_id": "252Gg"
+        },
+        {
+            "id": "footer01",
+            "sectionType": "Footer-section",
+            "type": "wap-section",
+            "info": {
+                "style": {
+                    "backgroundImage": "",
+                    "backgroundColor": "#484848",
+                    "paddingInline": "0px",
+                    "paddingBlock": "0px",
+                    "flexDirection": "row",
+                    "alignItems": "center",
+                    "justifyContent": "center",
+                    "alignContent": "unset",
+                    "minHeight": ""
+                }
+            },
+            "cmps": [
+                {
+                    "id": "wc0678",
+                    "type": "wap-text",
+                    "info": {
+                        "txt": "©️2021 Developer",
+                        "style": {
+                            "fontSize": "16px",
+                            "textAlign": "left",
+                            "textDecoration": "",
+                            "fontWeight": "",
+                            "fontStyle": "",
+                            "color": "#ffffff",
+                            "backgroundColor": "",
+                            "fontFamily": "montserrat_alternates",
+                            "textShadow": "",
+                            "paddingInline": "5px",
+                            "paddingBlock": "5px",
+                            "borderRadius": "15px",
+                            "letterSpacing": "0px"
+                        }
+                    },
+                    "cmps": [],
+                    "_id": "0oJNH"
+                }
+            ],
+            "_id": "GDABP"
+        },
+        {
+            "id": "section01",
+            "sectionType": "Section-section",
+            "type": "wap-section",
+            "info": {
+                "style": {
+                    "backgroundImage": "",
+                    "backgroundColor": "#484848",
+                    "paddingInline": "0px",
+                    "paddingBlock": "0px",
+                    "flexDirection": "row",
+                    "alignItems": "center",
+                    "justifyContent": "center",
+                    "alignContent": "unset",
+                    "minHeight": ""
+                }
+            },
+            "cmps": [],
+            "_id": "jFGGc"
+        },
+        {
+            "id": "text01",
+            "sectionType": "Text-section",
+            "type": "wap-section",
+            "info": {
+                "style": {
+                    "backgroundImage": "",
+                    "backgroundColor": "#000",
+                    "paddingInline": "10px",
+                    "paddingBlock": "10px",
+                    "flexDirection": "row",
+                    "alignItems": "center",
+                    "justifyContent": "space-around",
+                    "alignContent": "unset",
+                    "minHeight": ""
+                }
+            },
+            "cmps": [
+                {
+                    "id": "wc061",
+                    "type": "wap-text",
+                    "info": {
+                        "txt": "Welcome to my \nfirst WebApp that have been \ncreated in 5 minutes by the \nWeBuild Editor, \nI'm so happy now \nthat I have my own site.",
+                        "style": {
+                            "fontSize": "16px",
+                            "textAlign": "left",
+                            "textDecoration": "",
+                            "fontWeight": "",
+                            "fontStyle": "",
+                            "color": "#ffffff",
+                            "backgroundColor": "",
+                            "fontFamily": "montserrat_alternates",
+                            "textShadow": "",
+                            "paddingInline": "5px",
+                            "paddingBlock": "69px",
+                            "borderRadius": "15px",
+                            "letterSpacing": "0px"
+                        }
+                    },
+                    "cmps": []
+                },
+                {
+                    "id": "wc062",
+                    "type": "wap-text",
+                    "info": {
+                        "txt": "Important info about myself,\nI have never learn to code and \nI dont wish to learn..\n. this site gave me the best and \nsimple platform to build my dreamed \nWebApp!",
+                        "style": {
+                            "fontSize": "16px",
+                            "textAlign": "left",
+                            "textDecoration": "",
+                            "fontWeight": "",
+                            "fontStyle": "",
+                            "color": "#ffffff",
+                            "backgroundColor": "",
+                            "fontFamily": "montserrat_alternates",
+                            "textShadow": "",
+                            "paddingInline": "10px",
+                            "paddingBlock": "10px",
+                            "borderRadius": "15px",
+                            "letterSpacing": "0px"
+                        }
+                    },
+                    "cmps": []
+                }
+            ]
+        },
+        {
+            "id": "image01",
+            "sectionType": "Image-section",
+            "type": "wap-section",
+            "info": {
+                "style": {
+                    "backgroundImage": "",
+                    "backgroundColor": "rgba(255,255,255,1)",
+                    "paddingInline": "0px",
+                    "paddingBlock": "6px",
+                    "flexDirection": "row",
+                    "alignItems": "center",
+                    "justifyContent": "space-evenly",
+                    "alignContent": "unset",
+                    "minHeight": ""
+                }
+            },
+            "cmps": [
+                {
+                    "id": "wc09342345",
+                    "type": "wap-img",
+                    "info": {
+                        "src": "https://robohash.org/WeBuild",
+                        "style": {
+                            "width": "156px",
+                            "backgroundColor": "",
+                            "paddingInline": "5px",
+                            "paddingBlock": "26px",
+                            "borderRadius": "50px"
+                        }
+                    },
+                    "cmps": []
+                },
+                {
+                    "id": "wc0678",
+                    "type": "wap-text",
+                    "info": {
+                        "txt": "This Guy is Joey, Joey learned JS HTML CSS \nlot of people helped him to handle better all the\nthe chalenges are the Be",
+                        "style": {
+                            "fontSize": "19px",
+                            "textAlign": "start",
+                            "textDecoration": "",
+                            "fontWeight": "",
+                            "fontStyle": "",
+                            "color": "rgba(0,0,0,1)",
+                            "backgroundColor": "",
+                            "fontFamily": "montserrat_alternates",
+                            "textShadow": "",
+                            "paddingInline": "5px",
+                            "paddingBlock": "5px",
+                            "borderRadius": "15px",
+                            "letterSpacing": "0px"
+                        }
+                    },
+                    "cmps": []
+                }
+            ]
+        },
+        {
+            "id": "wc01",
+            "sectionType": "Form-section",
+            "type": "wap-section",
+            "info": {
+                "style": {
+                    "backgroundColor": "#607d8b",
+                    "display": "flex",
+                    "padding": "10px",
+                    "alignItems": "center",
+                    "flexDirection": "column",
+                    "justifyContent": "space-between"
+                }
+            },
+            "cmps": [
+                {
+                    "id": "wc051",
+                    "type": "wap-text",
+                    "info": {
+                        "txt": "Stay connected!",
+                        "style": {
+                            "fontSize": "30px",
+                            "color": "#ffffff",
+                            "backgroundColor": "#00000087",
+                            "padding": "10px 20px",
+                            "marginBottom": "10px",
+                            "borderRadius": "15px",
+                            "textAlign": "center",
+                            "fontFamily": "montserrat_alternates",
+                            "textDecoration": "unset",
+                            "fontWeight": "unset",
+                            "fontStyle": "unset"
+                        }
+                    },
+                    "cmps": []
+                },
+                {
+                    "id": "wc023",
+                    "type": "wap-form",
+                    "info": {
+                        "style": {
+                            "fontSize": "30px",
+                            "color": "#ffffff",
+                            "backgroundColor": "#00000087",
+                            "padding": "10px 20px",
+                            "marginBottom": "10px"
+                        },
+                        "cmps": [
+                            {
+                                "id": "wc0231"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "wc13201",
+            "type": "wap-section",
+            "sectionType": "Video-section",
+            "info": {
+                "style": {
+                    "backgroundImage": "",
+                    "backgroundColor": "#101010",
+                    "paddingInline": "10px",
+                    "paddingBlock": "10px",
+                    "flexDirection": "row",
+                    "alignItems": "center",
+                    "justifyContent": "center",
+                    "alignContent": "unset",
+                    "minHeight": "350px"
+                }
+            },
+            "cmps": [
+                {
+                    "id": "213d22",
+                    "type": "wap-video",
+                    "info": {
+                        "url": "https://www.youtube.com/watch?v=Q56AbrEr6JU",
+                        "style": {
+                            "width": "100%",
+                            "height": "100%"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "YarFAGkKT1",
+            "sectionType": "Hero-section",
+            "type": "wap-section",
+            "info": {
+                "txt": "",
+                "style": {
+                    "backgroundImage": "url(http://res.cloudinary.com/triplen91/image/upload/v1622651593/pmqht8pluv4tua573ngi.jpg)",
+                    "flexDirection": "column",
+                    "padding": "10px",
+                    "alignItems": "center",
+                    "justifyContent": "center",
+                    "minHeight": "70vh"
+                }
+            },
+            "cmps": [
+                {
+                    "id": "GhjjKR",
+                    "type": "wap-text",
+                    "info": {
+                        "txt": "Welcome to my first webApp",
+                        "style": {
+                            "fontSize": "47px",
+                            "color": "rgba(21,9,3,1)",
+                            "backgroundColor": "rgba(0,0,0,0.25)",
+                            "padding": "10px 20px",
+                            "marginBottom": "10px",
+                            "borderRadius": "15px",
+                            "textAlign": "center",
+                            "fontFamily": "cursive",
+                            "textDecoration": "unset",
+                            "fontWeight": "unset",
+                            "fontStyle": "unset"
+                        }
+                    },
+                    "cmps": []
+                },
+                {
+                    "id": "lZoXdt",
+                    "type": "wap-btn",
+                    "info": {
+                        "txt": "Click Here",
+                        "url": "",
+                        "style": {
+                            "borderRadius": "15px",
+                            "backgroundColor": "inherit",
+                            "border": "3px solid black",
+                            "color": "rgba(7,2,0,1)",
+                            "fontSize": "35px",
+                            "fontFamily": "caveat"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "header0112333",
+            "sectionType": "Gallery-section",
+            "type": "wap-section",
+            "info": {
+                "style": {
+                    "backgroundImage": "",
+                    "backgroundColor": "#ffff",
+                    "paddingInline": "30px",
+                    "paddingBlock": "8px",
+                    "flexDirection": "row",
+                    "alignItems": "center",
+                    "justifyContent": "space-between",
+                    "alignContent": "unset",
+                    "minHeight": ""
+                }
+            },
+            "cmps": [
+                {
+                    "id": "gallery2121",
+                    "type": "wap-gallery",
+                    "info": {
+                        "style": {}
+                    },
+                    "cmps": [
+                        {
+                            "id": "wc0932",
+                            "type": "wap-img",
+                            "info": {
+                                "src": "https://robohash.org/Webuild",
+                                "style": {
+                                    "width": "200px",
+                                    "backgroundColor": "rgba(255,255,255,1)",
+                                    "paddingInline": "5px",
+                                    "paddingBlock": "5px",
+                                    "borderRadius": "3px"
+                                }
+                            },
+                            "cmps": []
+                        },
+                        {
+                            "id": "wc091233",
+                            "type": "wap-img",
+                            "info": {
+                                "src": "https://robohash.org/Webuild",
+                                "style": {
+                                    "width": "200px",
+                                    "backgroundColor": "rgba(255,255,255,1)",
+                                    "paddingInline": "5px",
+                                    "paddingBlock": "5px",
+                                    "borderRadius": "3px"
+                                }
+                            },
+                            "cmps": []
+                        },
+                        {
+                            "id": "wc09331233",
+                            "type": "wap-img",
+                            "info": {
+                                "src": "https://robohash.org/Webuild",
+                                "style": {
+                                    "width": "200px",
+                                    "backgroundColor": "rgba(255,255,255,1)",
+                                    "paddingInline": "5px",
+                                    "paddingBlock": "5px",
+                                    "borderRadius": "3px"
+                                }
+                            },
+                            "cmps": []
+                        },
+                        {
+                            "id": "wc0933333",
+                            "type": "wap-img",
+                            "info": {
+                                "src": "https://robohash.org/Webuild",
+                                "style": {
+                                    "width": "200px",
+                                    "backgroundColor": "rgba(255,255,255,1)",
+                                    "paddingInline": "5px",
+                                    "paddingBlock": "5px",
+                                    "borderRadius": "3px"
+                                }
+                            },
+                            "cmps": []
+                        },
+                        {
+                            "id": "wc095553",
+                            "type": "wap-img",
+                            "info": {
+                                "src": "https://robohash.org/Webuild",
+                                "style": {
+                                    "width": "200px",
+                                    "backgroundColor": "rgba(255,255,255,1)",
+                                    "paddingInline": "5px",
+                                    "paddingBlock": "5px",
+                                    "borderRadius": "3px"
+                                }
+                            },
+                            "cmps": []
+                        },
+                        {
+                            "id": "wc0999993",
+                            "type": "wap-img",
+                            "info": {
+                                "src": "https://robohash.org/Webuild",
+                                "style": {
+                                    "width": "200px",
+                                    "backgroundColor": "rgba(255,255,255,1)",
+                                    "paddingInline": "5px",
+                                    "paddingBlock": "5px",
+                                    "borderRadius": "3px"
+                                }
+                            },
+                            "cmps": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "XpzUmEwcVA",
+            "sectionType": "Header-section",
+            "url": "https://res.cloudinary.com/triplen91/image/upload/v1622701901/Screen_Shot_2021-06-03_at_9.31.21_ytdxgf.png",
+            "type": "wap-section",
+            "info": {
+                "style": {
+                    "backgroundImage": "",
+                    "backgroundColor": "#101010",
+                    "paddingInline": "59px",
+                    "paddingBlock": "33px",
+                    "flexDirection": "row",
+                    "alignItems": "center",
+                    "justifyContent": "space-between",
+                    "alignContent": "unset",
+                    "minHeight": ""
+                }
+            },
+            "cmps": [
+                {
+                    "id": "qHIVVV",
+                    "type": "wap-text",
+                    "info": {
+                        "txt": "Winery",
+                        "style": {
+                            "fontSize": "24px",
+                            "textAlign": "center",
+                            "textDecoration": "",
+                            "fontWeight": "",
+                            "fontStyle": "",
+                            "color": "#ffffff",
+                            "backgroundColor": "#101010",
+                            "fontFamily": "montserrat_alternates",
+                            "textShadow": "",
+                            "paddingInline": "10px",
+                            "paddingBlock": "10px",
+                            "letterSpacing": "0px",
+                            "borderWidth": "0px",
+                            "borderColor": "0px",
+                            "borderRadius": "0px"
+                        }
+                    },
+                    "cmps": []
+                },
+                {
+                    "id": "6UWaQL",
+                    "type": "wap-nav",
+                    "info": {
+                        "style": {
+                            "flexDirection": "row",
+                            "alignItems": "center",
+                            "justifyContent": "flex-end",
+                            "alignContent": "center"
+                        }
+                    },
+                    "cmps": [
+                        {
+                            "id": "3Lqbrw",
+                            "type": "wap-btn",
+                            "info": {
+                                "txt": "Home",
+                                "action": {
+                                    "link": "url"
+                                },
+                                "style": {
+                                    "fontSize": "18px",
+                                    "textAlign": "center",
+                                    "textDecoration": "",
+                                    "fontWeight": "",
+                                    "fontStyle": "",
+                                    "color": "#ffffff",
+                                    "backgroundColor": "inherit",
+                                    "fontFamily": "montserrat_alternates",
+                                    "textShadow": "",
+                                    "paddingInline": "10px",
+                                    "paddingBlock": "10px",
+                                    "letterSpacing": "0px",
+                                    "borderWidth": "0px",
+                                    "borderColor": "0px",
+                                    "borderRadius": "15px"
+                                }
+                            }
+                        },
+                        {
+                            "id": "EUvdSn",
+                            "type": "wap-btn",
+                            "info": {
+                                "txt": "News",
+                                "action": {
+                                    "link": "url"
+                                },
+                                "style": {
+                                    "fontSize": "18px",
+                                    "textAlign": "center",
+                                    "textDecoration": "",
+                                    "fontWeight": "",
+                                    "fontStyle": "",
+                                    "color": "#ffffff",
+                                    "backgroundColor": "inherit",
+                                    "fontFamily": "montserrat_alternates",
+                                    "textShadow": "",
+                                    "paddingInline": "10px",
+                                    "paddingBlock": "10px",
+                                    "letterSpacing": "0px",
+                                    "borderWidth": "0px",
+                                    "borderColor": "0px",
+                                    "borderRadius": "15px"
+                                }
+                            }
+                        },
+                        {
+                            "id": "n5CC7S",
+                            "type": "wap-btn",
+                            "info": {
+                                "txt": "About",
+                                "action": {
+                                    "link": "url"
+                                },
+                                "style": {
+                                    "fontSize": "18px",
+                                    "textAlign": "center",
+                                    "textDecoration": "",
+                                    "fontWeight": "",
+                                    "fontFamily": "montserrat_alternates",
+                                    "fontStyle": "",
+                                    "color": "#ffffff",
+                                    "backgroundColor": "inherit",
+                                    "textShadow": "",
+                                    "paddingInline": "10px",
+                                    "paddingBlock": "10px",
+                                    "letterSpacing": "0px",
+                                    "borderWidth": "0px",
+                                    "borderColor": "0px",
+                                    "borderRadius": "15px"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "idospxkR5g",
+            "sectionType": "Hero-section",
+            "type": "wap-section",
+            "info": {
+                "txt": "",
+                "style": {
+                    "backgroundImage": "url(https://cdn2.vox-cdn.com/uploads/chorus_asset/file/2495130/wine_share.0.png)",
+                    "flexDirection": "column",
+                    "padding": "10px",
+                    "alignItems": "center",
+                    "justifyContent": "space-around",
+                    "minHeight": "70vh"
+                }
+            },
+            "cmps": [
+                {
+                    "id": "YJ8xVQ",
+                    "type": "wap-text",
+                    "info": {
+                        "txt": "Taste of good wine in your hands",
+                        "style": {
+                            "fontSize": "47px",
+                            "color": "rgba(255,255,255,1)",
+                            "backgroundColor": "rgba(21,12,5,0.23)",
+                            "padding": "10px 20px",
+                            "marginBottom": "10px",
+                            "borderRadius": "15px",
+                            "textAlign": "center",
+                            "fontFamily": "New Time David",
+                            "textDecoration": "unset",
+                            "fontWeight": "unset",
+                            "fontStyle": "unset"
+                        }
+                    },
+                    "cmps": []
+                },
+                {
+                    "id": "Qo0zUo",
+                    "type": "wap-btn",
+                    "info": {
+                        "txt": "Click Here",
+                        "url": "",
+                        "style": {
+                            "borderRadius": "15px",
+                            "backgroundColor": "rgba(2,0,0,0.53)",
+                            "border": "3px solid black",
+                            "color": "rgba(255,255,255,1)",
+                            "fontSize": "64px",
+                            "fontFamily": "caveat"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "JsRYWUQbNc",
+            "sectionType": "Gallery-section",
+            "type": "wap-section",
+            "info": {
+                "style": {
+                    "backgroundImage": "",
+                    "backgroundColor": "#ffff",
+                    "paddingInline": "30px",
+                    "paddingBlock": "8px",
+                    "flexDirection": "row",
+                    "alignItems": "center",
+                    "justifyContent": "center",
+                    "alignContent": "unset",
+                    "minHeight": ""
+                }
+            },
+            "cmps": [
+                {
+                    "id": "SEhqhm",
+                    "type": "wap-gallery",
+                    "info": {
+                        "style": {}
+                    },
+                    "cmps": [
+                        {
+                            "id": "qsmA86",
+                            "type": "wap-img",
+                            "info": {
+                                "src": "http://res.cloudinary.com/triplen91/image/upload/v1622660168/mkusx3gmzwiaxpg4feom.jpg",
+                                "style": {
+                                    "width": "200px",
+                                    "backgroundColor": "rgba(255,255,255,1)",
+                                    "paddingInline": "5px",
+                                    "paddingBlock": "5px",
+                                    "borderRadius": "3px"
+                                }
+                            },
+                            "cmps": []
+                        },
+                        {
+                            "id": "2T9rb5",
+                            "type": "wap-img",
+                            "info": {
+                                "src": "http://res.cloudinary.com/triplen91/image/upload/v1622660184/z9gp8nekjja7lldwew9w.jpg",
+                                "style": {
+                                    "width": "200px",
+                                    "backgroundColor": "rgba(255,255,255,1)",
+                                    "paddingInline": "5px",
+                                    "paddingBlock": "5px",
+                                    "borderRadius": "3px"
+                                }
+                            },
+                            "cmps": []
+                        },
+                        {
+                            "id": "P5agrz",
+                            "type": "wap-img",
+                            "info": {
+                                "src": "http://res.cloudinary.com/triplen91/image/upload/v1622660194/ad8tcfxdy3cjnobwzijk.jpg",
+                                "style": {
+                                    "width": "200px",
+                                    "backgroundColor": "rgba(255,255,255,1)",
+                                    "paddingInline": "5px",
+                                    "paddingBlock": "5px",
+                                    "borderRadius": "3px"
+                                }
+                            },
+                            "cmps": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "WDcoY5cOze",
+            "sectionType": "Text-section",
+            "type": "wap-section",
+            "info": {
+                "style": {
+                    "backgroundImage": "",
+                    "backgroundColor": "#000",
+                    "paddingInline": "10px",
+                    "paddingBlock": "10px",
+                    "flexDirection": "row",
+                    "alignItems": "center",
+                    "justifyContent": "space-around",
+                    "alignContent": "unset",
+                    "minHeight": ""
+                }
+            },
+            "cmps": [
+                {
+                    "id": "3WCKXB",
+                    "type": "wap-text",
+                    "info": {
+                        "txt": "Welcome to my \nfirst WebApp that have been \ncreated in 5 minutes by the \nWeBuild Editor, \nI'm so happy now \nthat I have my own site.",
+                        "style": {
+                            "fontSize": "16px",
+                            "textAlign": "left",
+                            "textDecoration": "",
+                            "fontWeight": "",
+                            "fontStyle": "",
+                            "color": "#ffffff",
+                            "backgroundColor": "",
+                            "fontFamily": "montserrat_alternates",
+                            "textShadow": "",
+                            "paddingInline": "5px",
+                            "paddingBlock": "69px",
+                            "borderRadius": "15px",
+                            "letterSpacing": "0px"
+                        }
+                    },
+                    "cmps": []
+                },
+                {
+                    "id": "QpcT7j",
+                    "type": "wap-text",
+                    "info": {
+                        "txt": "Important info about myself,\nI have never learn to code and \nI dont wish to learn..\n. this site gave me the best and \nsimple platform to build my dreamed \nWebApp!",
+                        "style": {
+                            "fontSize": "16px",
+                            "textAlign": "left",
+                            "textDecoration": "",
+                            "fontWeight": "",
+                            "fontStyle": "",
+                            "color": "#ffffff",
+                            "backgroundColor": "",
+                            "fontFamily": "montserrat_alternates",
+                            "textShadow": "",
+                            "paddingInline": "10px",
+                            "paddingBlock": "10px",
+                            "borderRadius": "15px",
+                            "letterSpacing": "0px"
+                        }
+                    },
+                    "cmps": []
+                }
+            ]
+        },
+        {
+            "id": "QfBCP3U06z",
+            "sectionType": "Image-section",
+            "type": "wap-section",
+            "info": {
+                "style": {
+                    "backgroundImage": "",
+                    "backgroundColor": "rgba(255,255,255,1)",
+                    "paddingInline": "0px",
+                    "paddingBlock": "6px",
+                    "flexDirection": "row",
+                    "alignItems": "center",
+                    "justifyContent": "space-evenly",
+                    "alignContent": "unset",
+                    "minHeight": ""
+                }
+            },
+            "cmps": []
+        },
+        {
+            "id": "tesAhEktHP",
+            "sectionType": "Section-section",
+            "type": "wap-section",
+            "info": {
+                "style": {
+                    "backgroundImage": "",
+                    "backgroundColor": "#484848",
+                    "paddingInline": "0px",
+                    "paddingBlock": "0px",
+                    "flexDirection": "row",
+                    "alignItems": "center",
+                    "justifyContent": "center",
+                    "alignContent": "unset",
+                    "minHeight": ""
+                }
+            },
+            "cmps": [],
+            "_id": "jFGGc"
+        }
+    ]
+}

@@ -33,7 +33,6 @@ async function updateWap(wap) {
     try {
         const collection = await dbService.getCollection(collectionName)
         await collection.updateOne({ '_id': ObjectId(_id) }, { $set: { ...wap, _id: ObjectId(_id) } })
-        console.log("🚀 ~ file: wap.service.js ~ line 24 ~ updateWap ~ updatedWap", wap)
         return wap;
     } catch (err) {
         logger.error('Failed to update toy', err)
