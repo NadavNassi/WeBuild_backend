@@ -18,7 +18,8 @@ async function query() {
 async function createWap(wap) {
     try {
         const collection = await dbService.getCollection(collectionName)
-        wap.isPublic = wap.isEdit = true
+        wap.isEdit = true
+        wap.isPublic = false
         res = await collection.insertOne(wap)
         return res.ops
     } catch (err) {
