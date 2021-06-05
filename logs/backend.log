@@ -108,3 +108,5 @@
 6/2/2021, 6:49:57 PM - ERROR - Failed to update wap | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
 6/2/2021, 6:49:57 PM - ERROR - Failed to update toy | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
 6/2/2021, 6:49:57 PM - ERROR - Failed to update wap | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6/2/2021, 6:54:37 PM - INFO - Server is running on port: 3030 
+6/3/2021, 12:06:22 PM - INFO - Server is running on port: 3030 
