@@ -1721,6 +1721,405 @@
             }
         },
         {
+            "id": "headerss0112333",
+            "sectionType": "Cards-section",
+            "type": "wap-section",
+            "url": "https://res.cloudinary.com/triplen91/image/upload/v1622911784/Screen_Shot_2021-06-05_at_19.49.30_dwavtn.png",
+            "info": {
+                "style": {
+                    "backgroundImage": "",
+                    "backgroundColor": "#ffff",
+                    "paddingInline": "30px",
+                    "paddingBlock": "8px",
+                    "flexDirection": "row",
+                    "alignItems": "center",
+                    "justifyContent": "space-between",
+                    "alignContent": "unset",
+                    "minHeight": ""
+                }
+            },
+            "cmps": [
+                {
+                    "id": "5jqVe8sGFA8rC",
+                    "type": "wap-card",
+                    "info": {
+                        "style": {
+                            "backgroundImage": "",
+                            "backgroundColor": "rgba(255,255,255,1)",
+                            "minWidth": "",
+                            "minHeight": "",
+                            "paddingInline": "0px",
+                            "paddingBlock": "0px",
+                            "flexDirection": "column",
+                            "alignItems": "center",
+                            "justifyContent": "space-between",
+                            "alignContent": "unset",
+                            "borderRadius": "15px"
+                        }
+                    },
+                    "cmps": [
+                        {
+                            "id": "wc0ss9331233",
+                            "type": "wap-img",
+                            "info": {
+                                "src": "http://res.cloudinary.com/triplen91/image/upload/v1622894791/dhxgclirp4d8jviefly9.png",
+                                "style": {
+                                    "width": "64px",
+                                    "backgroundColor": "rgba(255,255,255,1)",
+                                    "paddingInline": "5px",
+                                    "paddingBlock": "5px",
+                                    "borderRadius": "3px"
+                                }
+                            }
+                        },
+                        {
+                            "id": "sSYg7sJahUVLlw",
+                            "type": "wap-text",
+                            "info": {
+                                "txt": "Cross-device",
+                                "style": {
+                                    "fontSize": "17px",
+                                    "textAlign": "center",
+                                    "textDecoration": "",
+                                    "fontWeight": "bold",
+                                    "fontStyle": "",
+                                    "color": "rgba(41,52,98,1)",
+                                    "backgroundColor": "transparent",
+                                    "minWidth": "16px",
+                                    "minHeight": "16px",
+                                    "fontFamily": "rubik",
+                                    "textShadow": "",
+                                    "paddingInline": "5px",
+                                    "paddingBlock": "5px",
+                                    "borderRadius": "15px",
+                                    "letterSpacing": "5px"
+                                }
+                            },
+                            "cmps": []
+                        },
+                        {
+                            "id": "sXp2qjeWOs4G9Q",
+                            "type": "wap-text",
+                            "info": {
+                                "txt": "Use the app from your pc, laptop, mobile or your tablet!",
+                                "style": {
+                                    "fontSize": "19px",
+                                    "textAlign": "center",
+                                    "textDecoration": "",
+                                    "fontWeight": "",
+                                    "fontStyle": "",
+                                    "color": "rgba(1,1,6,0.71)",
+                                    "backgroundColor": "transparent",
+                                    "minWidth": "16px",
+                                    "minHeight": "16px",
+                                    "fontFamily": "rubik",
+                                    "textShadow": "",
+                                    "paddingInline": "20px",
+                                    "paddingBlock": "5px",
+                                    "borderRadius": "15px",
+                                    "letterSpacing": "0px"
+                                }
+                            },
+                            "cmps": []
+                        }
+                    ]
+                },
+                {
+                    "id": "5sjqVe8sGFA823rC",
+                    "type": "wap-card",
+                    "info": {
+                        "style": {
+                            "backgroundImage": "",
+                            "backgroundColor": "rgba(255,255,255,1)",
+                            "minWidth": "",
+                            "minHeight": "",
+                            "paddingInline": "19px",
+                            "paddingBlock": "15px",
+                            "flexDirection": "column",
+                            "alignItems": "center",
+                            "justifyContent": "space-between",
+                            "alignContent": "unset",
+                            "borderRadius": "15px"
+                        }
+                    },
+                    "cmps": [
+                        {
+                            "id": "swc09331asd233",
+                            "type": "wap-img",
+                            "info": {
+                                "src": "http://res.cloudinary.com/triplen91/image/upload/v1622894912/m2nggl8idosb9yjlktw3.png",
+                                "style": {
+                                    "width": "64px",
+                                    "backgroundColor": "rgba(255,255,255,1)",
+                                    "paddingInline": "5px",
+                                    "paddingBlock": "5px",
+                                    "borderRadius": "3px"
+                                }
+                            }
+                        },
+                        {
+                            "id": "SsYg7sJahUVLlw",
+                            "type": "wap-text",
+                            "info": {
+                                "txt": "Battery-lite app",
+                                "style": {
+                                    "fontSize": "17px",
+                                    "textAlign": "center",
+                                    "textDecoration": "",
+                                    "fontWeight": "bold",
+                                    "fontStyle": "",
+                                    "color": "rgba(41,52,98,1)",
+                                    "backgroundColor": "transparent",
+                                    "minWidth": "16px",
+                                    "minHeight": "16px",
+                                    "fontFamily": "rubik",
+                                    "textShadow": "",
+                                    "paddingInline": "5px",
+                                    "paddingBlock": "5px",
+                                    "borderRadius": "15px",
+                                    "letterSpacing": "5px"
+                                }
+                            },
+                            "cmps": []
+                        },
+                        {
+                            "id": "Xspasd2qjeWOs4G9Q",
+                            "type": "wap-text",
+                            "info": {
+                                "txt": "You'll also find a lot of svg illustrations representing various.",
+                                "style": {
+                                    "fontSize": "19px",
+                                    "textAlign": "center",
+                                    "textDecoration": "",
+                                    "fontWeight": "",
+                                    "fontStyle": "",
+                                    "color": "rgba(1,1,7,0.71)",
+                                    "backgroundColor": "transparent",
+                                    "minWidth": "16px",
+                                    "minHeight": "16px",
+                                    "fontFamily": "rubik",
+                                    "textShadow": "",
+                                    "paddingInline": "5px",
+                                    "paddingBlock": "5px",
+                                    "borderRadius": "15px",
+                                    "letterSpacing": "0px"
+                                }
+                            },
+                            "cmps": []
+                        }
+                    ]
+                },
+                {
+                    "id": "5jqse8sGFA823rC",
+                    "type": "wap-card",
+                    "info": {
+                        "style": {
+                            "backgroundImage": "",
+                            "backgroundColor": "rgba(255,255,255,1)",
+                            "minWidth": "",
+                            "minHeight": "",
+                            "paddingInline": "19px",
+                            "paddingBlock": "15px",
+                            "flexDirection": "column",
+                            "alignItems": "center",
+                            "justifyContent": "space-between",
+                            "alignContent": "unset",
+                            "borderRadius": "15px"
+                        }
+                    },
+                    "cmps": [
+                        {
+                            "id": "wc093s31asd233",
+                            "type": "wap-img",
+                            "info": {
+                                "src": "http://res.cloudinary.com/triplen91/image/upload/v1622895034/pg0rtrbgkft3lpt7dyk7.png",
+                                "style": {
+                                    "width": "64px",
+                                    "backgroundColor": "rgba(255,255,255,1)",
+                                    "paddingInline": "5px",
+                                    "paddingBlock": "5px",
+                                    "borderRadius": "3px"
+                                }
+                            }
+                        },
+                        {
+                            "id": "SYg7ssJahUVLlw",
+                            "type": "wap-text",
+                            "info": {
+                                "txt": "Offline-ready",
+                                "style": {
+                                    "fontSize": "17px",
+                                    "textAlign": "center",
+                                    "textDecoration": "",
+                                    "fontWeight": "bold",
+                                    "fontStyle": "",
+                                    "color": "rgba(4,3,3,1)",
+                                    "backgroundColor": "transparent",
+                                    "minWidth": "16px",
+                                    "minHeight": "16px",
+                                    "fontFamily": "rubik",
+                                    "textShadow": "",
+                                    "paddingInline": "5px",
+                                    "paddingBlock": "5px",
+                                    "borderRadius": "15px",
+                                    "letterSpacing": "5px"
+                                }
+                            },
+                            "cmps": []
+                        },
+                        {
+                            "id": "Xpasd2qjesWOs4G9Q",
+                            "type": "wap-text",
+                            "info": {
+                                "txt": "Low internet connection?, fear not!. We made the app, connectivity fearless.",
+                                "style": {
+                                    "fontSize": "19px",
+                                    "textAlign": "center",
+                                    "textDecoration": "",
+                                    "fontWeight": "",
+                                    "fontStyle": "unset",
+                                    "color": "rgba(1,1,7,0.71)",
+                                    "backgroundColor": "transparent",
+                                    "minWidth": "16px",
+                                    "minHeight": "16px",
+                                    "fontFamily": "rubik",
+                                    "textShadow": "",
+                                    "paddingInline": "5px",
+                                    "paddingBlock": "5px",
+                                    "borderRadius": "15px",
+                                    "letterSpacing": "0px"
+                                }
+                            },
+                            "cmps": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "card789",
+            "type": "wap-card",
+            "sectionType": "Cards-section",
+            "url": "https://res.cloudinary.com/triplen91/image/upload/v1622911576/Screen_Shot_2021-06-05_at_19.46.00_z0k9ca.png",
+            "info": {
+                "style": {
+                    "backgroundImage": "",
+                    "backgroundColor": "transparent",
+                    "maxWidth": "100%",
+                    "minHeight": "460px",
+                    "paddingInline": "2px",
+                    "paddingBlock": "0px",
+                    "flexDirection": "row-reverse",
+                    "alignItems": "center",
+                    "justifyContent": "center",
+                    "alignContent": "center",
+                    "borderRadius": "15px"
+                }
+            },
+            "cmps": [
+                {
+                    "id": "w22c09342345",
+                    "type": "wap-img",
+                    "info": {
+                        "src": "http://res.cloudinary.com/triplen91/image/upload/v1622891698/yb5qrj6p0ki8awbqwbr0.jpg",
+                        "style": {
+                            "width": "325px",
+                            "backgroundColor": "",
+                            "paddingInline": "5px",
+                            "paddingBlock": "26px",
+                            "borderRadius": "0px"
+                        }
+                    },
+                    "cmps": []
+                },
+                {
+                    "id": "card3242312213",
+                    "type": "wap-card",
+                    "info": {
+                        "style": {
+                            "backgroundImage": "",
+                            "backgroundColor": "transparent",
+                            "maxWidth": "700px",
+                            "minHeight": "460px",
+                            "paddingInline": "26px",
+                            "paddingBlock": "81px",
+                            "flexDirection": "column",
+                            "alignItems": "flex-start",
+                            "justifyContent": "unset",
+                            "alignContent": "unset",
+                            "borderRadius": "15px"
+                        }
+                    },
+                    "cmps": [
+                        {
+                            "id": "w3c09342345",
+                            "type": "wap-img",
+                            "info": {
+                                "src": "http://res.cloudinary.com/triplen91/image/upload/v1622895600/uttif7pjqffc1zrm4cdn.png",
+                                "style": {
+                                    "width": "60px",
+                                    "backgroundColor": "",
+                                    "paddingInline": "5px",
+                                    "paddingBlock": "26px",
+                                    "borderRadius": "50px"
+                                }
+                            },
+                            "cmps": []
+                        },
+                        {
+                            "id": "re432s0992s8",
+                            "type": "wap-text",
+                            "info": {
+                                "txt": "Millions of songs, available anywhere.",
+                                "style": {
+                                    "fontWeight": "bold",
+                                    "textAlign": "start",
+                                    "textDecoration": "",
+                                    "fontSize": "54px",
+                                    "color": "rgba(41,52,98,1)",
+                                    "backgroundColor": "transparent",
+                                    "minWidth": "16px",
+                                    "minHeight": "16px",
+                                    "fontFamily": "montserrat_alternates",
+                                    "textShadow": "",
+                                    "paddingInline": "5px",
+                                    "paddingBlock": "5px",
+                                    "borderRadius": "15px",
+                                    "letterSpacing": "5px"
+                                }
+                            },
+                            "cmps": []
+                        },
+                        {
+                            "id": "re5gs0992s998s",
+                            "type": "wap-text",
+                            "info": {
+                                "txt": "Search for any track, artist or album and listen for free. Make and share playlists. Build your biggest, best ever music collection",
+                                "style": {
+                                    "fontSize": "25px",
+                                    "textAlign": "start",
+                                    "textDecoration": "",
+                                    "fontWeight": "",
+                                    "fontStyle": "",
+                                    "color": "rgba(41,52,98,1)",
+                                    "backgroundColor": "transparent",
+                                    "minWidth": "16px",
+                                    "minHeight": "16px",
+                                    "fontFamily": "roboto",
+                                    "textShadow": "",
+                                    "paddingInline": "0px",
+                                    "paddingBlock": "10px",
+                                    "borderRadius": "15px",
+                                    "letterSpacing": "0px"
+                                }
+                            },
+                            "cmps": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "cards02",
             "sectionType": "Cards-section",
             "type": "wap-section",
@@ -2187,6 +2586,612 @@
                                 }
                             },
                             "cmps": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "header03211",
+            "sectionType": "Hero-section",
+            "url": "https://res.cloudinary.com/triplen91/image/upload/v1622701638/Screen_Shot_2021-06-03_at_9.27.00_w8rmqk.png",
+            "type": "wap-section",
+            "info": {
+                "style": {
+                    "backgroundImage": "url(https://svgshare.com/i/Rta.svg)",
+                    "backgroundColor": "rgba(255, 0, 150, 0.3)",
+                    "backgroundPosition": "inherit",
+                    "minHeight": "40rem",
+                    "paddingInline": "",
+                    "paddingBlock": "10px",
+                    "flexDirection": "column",
+                    "alignItems": "",
+                    "justifyContent": "space-between",
+                    "alignContent": "unset"
+                }
+            },
+            "cmps": [
+                {
+                    "id": "9HERMV",
+                    "sectionType": "Header-section",
+                    "type": "wap-section",
+                    "info": {
+                        "style": {
+                            "backgroundImage": "",
+                            "backgroundColor": "transparent",
+                            "minWidth": "90%",
+                            "minHeight": "",
+                            "paddingInline": "45px",
+                            "paddingBlock": "15px",
+                            "flexDirection": "row",
+                            "alignItems": "center",
+                            "justifyContent": "space-between",
+                            "alignContent": "unset"
+                        }
+                    },
+                    "cmps": [
+                        {
+                            "id": "NuLtYu",
+                            "type": "wap-text",
+                            "info": {
+                                "txt": "STRATOS",
+                                "style": {
+                                    "fontSize": "29px",
+                                    "textAlign": "center",
+                                    "textDecoration": "",
+                                    "fontWeight": "",
+                                    "fontStyle": "",
+                                    "color": "rgba(255,255,255,1)",
+                                    "backgroundColor": "rgba(0,0,0,0)",
+                                    "minWidth": "16px",
+                                    "minHeight": "16px",
+                                    "fontFamily": "montserrat_alternates",
+                                    "textShadow": "rgb(183 176 177) 3px 2px 3px",
+                                    "paddingInline": "10px",
+                                    "paddingBlock": "10px",
+                                    "letterSpacing": "0px",
+                                    "borderWidth": "0px",
+                                    "borderColor": "0px",
+                                    "borderRadius": "0px"
+                                }
+                            },
+                            "cmps": []
+                        },
+                        {
+                            "id": "0BmI1R",
+                            "type": "wap-nav",
+                            "info": {
+                                "style": {
+                                    "flexDirection": "row",
+                                    "alignItems": "center",
+                                    "justifyContent": "flex-end",
+                                    "alignContent": "center"
+                                }
+                            },
+                            "cmps": [
+                                {
+                                    "id": "mhryc6",
+                                    "type": "wap-btn",
+                                    "info": {
+                                        "txt": "Home",
+                                        "action": {
+                                            "link": "url"
+                                        },
+                                        "style": {
+                                            "fontSize": "18px",
+                                            "textAlign": "center",
+                                            "textDecoration": "",
+                                            "fontWeight": "",
+                                            "fontStyle": "",
+                                            "color": "rgba(255,255,255,1)",
+                                            "backgroundColor": "inherit",
+                                            "minWidth": "16px",
+                                            "minHeight": "16px",
+                                            "fontFamily": "montserrat_alternates",
+                                            "textShadow": "",
+                                            "paddingInline": "10px",
+                                            "paddingBlock": "10px",
+                                            "letterSpacing": "0px",
+                                            "borderWidth": "0px",
+                                            "borderColor": "0px",
+                                            "borderRadius": "15px"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "MtYELx",
+                                    "type": "wap-btn",
+                                    "info": {
+                                        "txt": "About",
+                                        "action": {
+                                            "link": "url"
+                                        },
+                                        "style": {
+                                            "fontSize": "18px",
+                                            "textAlign": "center",
+                                            "textDecoration": "",
+                                            "fontWeight": "",
+                                            "fontStyle": "",
+                                            "color": "rgba(251,244,244,1)",
+                                            "backgroundColor": "inherit",
+                                            "minWidth": "16px",
+                                            "minHeight": "16px",
+                                            "fontFamily": "montserrat_alternates",
+                                            "textShadow": "",
+                                            "paddingInline": "10px",
+                                            "paddingBlock": "10px",
+                                            "letterSpacing": "0px",
+                                            "borderWidth": "0px",
+                                            "borderColor": "0px",
+                                            "borderRadius": "15px"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "xpZCCf",
+                                    "type": "wap-btn",
+                                    "info": {
+                                        "txt": "Features",
+                                        "action": {
+                                            "link": "url"
+                                        },
+                                        "style": {
+                                            "fontSize": "18px",
+                                            "textAlign": "center",
+                                            "textDecoration": "",
+                                            "fontWeight": "",
+                                            "fontFamily": "montserrat_alternates",
+                                            "fontStyle": "",
+                                            "color": "rgba(255,252,250,1)",
+                                            "backgroundColor": "inherit",
+                                            "minWidth": "16px",
+                                            "minHeight": "16px",
+                                            "textShadow": "",
+                                            "paddingInline": "10px",
+                                            "paddingBlock": "10px",
+                                            "letterSpacing": "0px",
+                                            "borderWidth": "0px",
+                                            "borderColor": "0px",
+                                            "borderRadius": "15px"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "card1213",
+                    "type": "wap-card",
+                    "info": {
+                        "style": {
+                            "backgroundImage": "",
+                            "backgroundColor": "transparent",
+                            "maxWidth": "100%",
+                            "minHeight": "460px",
+                            "paddingInline": "26px",
+                            "paddingBlock": "81px",
+                            "flexDirection": "row",
+                            "alignItems": "center",
+                            "justifyContent": "center",
+                            "alignContent": "unset",
+                            "borderRadius": "15px"
+                        }
+                    },
+                    "cmps": [
+                        {
+                            "id": "wc09342345",
+                            "type": "wap-img",
+                            "info": {
+                                "src": "http://res.cloudinary.com/triplen91/image/upload/v1622888739/jzbxnkjzdrbmxbijkx5s.png",
+                                "style": {
+                                    "width": "247px",
+                                    "backgroundColor": "",
+                                    "paddingInline": "5px",
+                                    "paddingBlock": "26px",
+                                    "borderRadius": "50px"
+                                }
+                            },
+                            "cmps": []
+                        },
+                        {
+                            "id": "card12213",
+                            "type": "wap-card",
+                            "info": {
+                                "style": {
+                                    "backgroundImage": "",
+                                    "backgroundColor": "transparent",
+                                    "maxWidth": "700px",
+                                    "minHeight": "460px",
+                                    "paddingInline": "26px",
+                                    "paddingBlock": "81px",
+                                    "flexDirection": "column",
+                                    "alignItems": "flex-start",
+                                    "justifyContent": "space-between",
+                                    "alignContent": "unset",
+                                    "borderRadius": "15px"
+                                }
+                            },
+                            "cmps": [
+                                {
+                                    "id": "res0992s8",
+                                    "type": "wap-text",
+                                    "info": {
+                                        "txt": "Discover Great Music Every Day",
+                                        "style": {
+                                            "fontWeight": "bold",
+                                            "textAlign": "start",
+                                            "textDecoration": "",
+                                            "fontSize": "54px",
+                                            "color": "rgba(6,3,0,0.7)",
+                                            "backgroundColor": "transparent",
+                                            "minWidth": "16px",
+                                            "minHeight": "16px",
+                                            "fontFamily": "montserrat_alternates",
+                                            "textShadow": "",
+                                            "paddingInline": "5px",
+                                            "paddingBlock": "5px",
+                                            "borderRadius": "15px",
+                                            "letterSpacing": "5px"
+                                        }
+                                    },
+                                    "cmps": []
+                                },
+                                {
+                                    "id": "res0992s998s",
+                                    "type": "wap-text",
+                                    "info": {
+                                        "txt": "High-quality, original content. Ad-free, start today with a 14-day free trial. No credit card required.",
+                                        "style": {
+                                            "fontSize": "25px",
+                                            "textAlign": "start",
+                                            "textDecoration": "",
+                                            "fontWeight": "",
+                                            "fontStyle": "",
+                                            "color": "rgba(3,1,0,0.7)",
+                                            "backgroundColor": "transparent",
+                                            "minWidth": "16px",
+                                            "minHeight": "16px",
+                                            "fontFamily": "roboto",
+                                            "textShadow": "",
+                                            "paddingInline": "0px",
+                                            "paddingBlock": "10px",
+                                            "borderRadius": "15px",
+                                            "letterSpacing": "0px"
+                                        }
+                                    },
+                                    "cmps": []
+                                },
+                                {
+                                    "id": "res059s3ss2",
+                                    "type": "wap-btn",
+                                    "info": {
+                                        "txt": "START NOW",
+                                        "style": {
+                                            "textAlign": "center",
+                                            "textDecoration": "",
+                                            "fontWeight": "",
+                                            "fontStyle": "",
+                                            "color": "rgb(97, 95, 95)",
+                                            "backgroundColor": "rgb(252, 196, 0)",
+                                            "minWidth": "16px",
+                                            "minHeight": "16px",
+                                            "fontFamily": "roboto",
+                                            "textShadow": "",
+                                            "fontSize": "17px",
+                                            "paddingInline": "34px",
+                                            "paddingBlock": "0.8rem",
+                                            "letterSpacing": "0px",
+                                            "borderWidth": "0px",
+                                            "borderColor": "black",
+                                            "borderRadius": "20px"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "header03222",
+            "sectionType": "Section-section",
+            "url": "https://res.cloudinary.com/triplen91/image/upload/v1622910491/Screen_Shot_2021-06-05_at_19.27.40_xr3u7t.png",
+            "type": "wap-section",
+            "info": {
+                "style": {
+                    "backgroundImage": "url(https://svgshare.com/i/Rta.svg)",
+                    "backgroundColor": "rgba(255, 0, 150, 0.3)",
+                    "backgroundPosition": "inherit",
+                    "minHeight": "40rem",
+                    "paddingInline": "",
+                    "paddingBlock": "10px",
+                    "flexDirection": "column",
+                    "alignItems": "",
+                    "justifyContent": "space-between",
+                    "alignContent": "unset"
+                }
+            },
+            "cmps": [
+                {
+                    "id": "9HERMV",
+                    "sectionType": "Header-section",
+                    "type": "wap-section",
+                    "info": {
+                        "style": {
+                            "backgroundImage": "",
+                            "backgroundColor": "transparent",
+                            "minWidth": "90%",
+                            "minHeight": "",
+                            "paddingInline": "45px",
+                            "paddingBlock": "15px",
+                            "flexDirection": "row",
+                            "alignItems": "center",
+                            "justifyContent": "space-between",
+                            "alignContent": "unset"
+                        }
+                    },
+                    "cmps": [
+                        {
+                            "id": "NuLtYu",
+                            "type": "wap-text",
+                            "info": {
+                                "txt": "STRATOS",
+                                "style": {
+                                    "fontSize": "29px",
+                                    "textAlign": "center",
+                                    "textDecoration": "",
+                                    "fontWeight": "",
+                                    "fontStyle": "",
+                                    "color": "rgba(255,255,255,1)",
+                                    "backgroundColor": "rgba(0,0,0,0)",
+                                    "minWidth": "16px",
+                                    "minHeight": "16px",
+                                    "fontFamily": "montserrat_alternates",
+                                    "textShadow": "rgb(183 176 177) 3px 2px 3px",
+                                    "paddingInline": "10px",
+                                    "paddingBlock": "10px",
+                                    "letterSpacing": "0px",
+                                    "borderWidth": "0px",
+                                    "borderColor": "0px",
+                                    "borderRadius": "0px"
+                                }
+                            },
+                            "cmps": []
+                        },
+                        {
+                            "id": "0BmI1R",
+                            "type": "wap-nav",
+                            "info": {
+                                "style": {
+                                    "flexDirection": "row",
+                                    "alignItems": "center",
+                                    "justifyContent": "flex-end",
+                                    "alignContent": "center"
+                                }
+                            },
+                            "cmps": [
+                                {
+                                    "id": "mhryc6",
+                                    "type": "wap-btn",
+                                    "info": {
+                                        "txt": "Home",
+                                        "action": {
+                                            "link": "url"
+                                        },
+                                        "style": {
+                                            "fontSize": "18px",
+                                            "textAlign": "center",
+                                            "textDecoration": "",
+                                            "fontWeight": "",
+                                            "fontStyle": "",
+                                            "color": "rgba(255,255,255,1)",
+                                            "backgroundColor": "inherit",
+                                            "minWidth": "16px",
+                                            "minHeight": "16px",
+                                            "fontFamily": "montserrat_alternates",
+                                            "textShadow": "",
+                                            "paddingInline": "10px",
+                                            "paddingBlock": "10px",
+                                            "letterSpacing": "0px",
+                                            "borderWidth": "0px",
+                                            "borderColor": "0px",
+                                            "borderRadius": "15px"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "MtYELx",
+                                    "type": "wap-btn",
+                                    "info": {
+                                        "txt": "About",
+                                        "action": {
+                                            "link": "url"
+                                        },
+                                        "style": {
+                                            "fontSize": "18px",
+                                            "textAlign": "center",
+                                            "textDecoration": "",
+                                            "fontWeight": "",
+                                            "fontStyle": "",
+                                            "color": "rgba(251,244,244,1)",
+                                            "backgroundColor": "inherit",
+                                            "minWidth": "16px",
+                                            "minHeight": "16px",
+                                            "fontFamily": "montserrat_alternates",
+                                            "textShadow": "",
+                                            "paddingInline": "10px",
+                                            "paddingBlock": "10px",
+                                            "letterSpacing": "0px",
+                                            "borderWidth": "0px",
+                                            "borderColor": "0px",
+                                            "borderRadius": "15px"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "xpZCCf",
+                                    "type": "wap-btn",
+                                    "info": {
+                                        "txt": "Features",
+                                        "action": {
+                                            "link": "url"
+                                        },
+                                        "style": {
+                                            "fontSize": "18px",
+                                            "textAlign": "center",
+                                            "textDecoration": "",
+                                            "fontWeight": "",
+                                            "fontFamily": "montserrat_alternates",
+                                            "fontStyle": "",
+                                            "color": "rgba(255,252,250,1)",
+                                            "backgroundColor": "inherit",
+                                            "minWidth": "16px",
+                                            "minHeight": "16px",
+                                            "textShadow": "",
+                                            "paddingInline": "10px",
+                                            "paddingBlock": "10px",
+                                            "letterSpacing": "0px",
+                                            "borderWidth": "0px",
+                                            "borderColor": "0px",
+                                            "borderRadius": "15px"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "card1213",
+                    "type": "wap-card",
+                    "info": {
+                        "style": {
+                            "backgroundImage": "",
+                            "backgroundColor": "transparent",
+                            "maxWidth": "100%",
+                            "minHeight": "460px",
+                            "paddingInline": "26px",
+                            "paddingBlock": "81px",
+                            "flexDirection": "row",
+                            "alignItems": "center",
+                            "justifyContent": "center",
+                            "alignContent": "unset",
+                            "borderRadius": "15px"
+                        }
+                    },
+                    "cmps": [
+                        {
+                            "id": "wc09342345",
+                            "type": "wap-img",
+                            "info": {
+                                "src": "http://res.cloudinary.com/triplen91/image/upload/v1622888739/jzbxnkjzdrbmxbijkx5s.png",
+                                "style": {
+                                    "width": "247px",
+                                    "backgroundColor": "",
+                                    "paddingInline": "5px",
+                                    "paddingBlock": "26px",
+                                    "borderRadius": "50px"
+                                }
+                            },
+                            "cmps": []
+                        },
+                        {
+                            "id": "card12213",
+                            "type": "wap-card",
+                            "info": {
+                                "style": {
+                                    "backgroundImage": "",
+                                    "backgroundColor": "transparent",
+                                    "maxWidth": "700px",
+                                    "minHeight": "460px",
+                                    "paddingInline": "26px",
+                                    "paddingBlock": "81px",
+                                    "flexDirection": "column",
+                                    "alignItems": "flex-start",
+                                    "justifyContent": "space-between",
+                                    "alignContent": "unset",
+                                    "borderRadius": "15px"
+                                }
+                            },
+                            "cmps": [
+                                {
+                                    "id": "res0992s8",
+                                    "type": "wap-text",
+                                    "info": {
+                                        "txt": "Discover Great Music Every Day",
+                                        "style": {
+                                            "fontWeight": "bold",
+                                            "textAlign": "start",
+                                            "textDecoration": "",
+                                            "fontSize": "54px",
+                                            "color": "rgba(6,3,0,0.7)",
+                                            "backgroundColor": "transparent",
+                                            "minWidth": "16px",
+                                            "minHeight": "16px",
+                                            "fontFamily": "montserrat_alternates",
+                                            "textShadow": "",
+                                            "paddingInline": "5px",
+                                            "paddingBlock": "5px",
+                                            "borderRadius": "15px",
+                                            "letterSpacing": "5px"
+                                        }
+                                    },
+                                    "cmps": []
+                                },
+                                {
+                                    "id": "res0992s998s",
+                                    "type": "wap-text",
+                                    "info": {
+                                        "txt": "High-quality, original content. Ad-free, start today with a 14-day free trial. No credit card required.",
+                                        "style": {
+                                            "fontSize": "25px",
+                                            "textAlign": "start",
+                                            "textDecoration": "",
+                                            "fontWeight": "",
+                                            "fontStyle": "",
+                                            "color": "rgba(3,1,0,0.7)",
+                                            "backgroundColor": "transparent",
+                                            "minWidth": "16px",
+                                            "minHeight": "16px",
+                                            "fontFamily": "roboto",
+                                            "textShadow": "",
+                                            "paddingInline": "0px",
+                                            "paddingBlock": "10px",
+                                            "borderRadius": "15px",
+                                            "letterSpacing": "0px"
+                                        }
+                                    },
+                                    "cmps": []
+                                },
+                                {
+                                    "id": "res059s3ss2",
+                                    "type": "wap-btn",
+                                    "info": {
+                                        "txt": "START NOW",
+                                        "style": {
+                                            "textAlign": "center",
+                                            "textDecoration": "",
+                                            "fontWeight": "",
+                                            "fontStyle": "",
+                                            "color": "rgb(97, 95, 95)",
+                                            "backgroundColor": "rgb(252, 196, 0)",
+                                            "minWidth": "16px",
+                                            "minHeight": "16px",
+                                            "fontFamily": "roboto",
+                                            "textShadow": "",
+                                            "fontSize": "17px",
+                                            "paddingInline": "34px",
+                                            "paddingBlock": "0.8rem",
+                                            "letterSpacing": "0px",
+                                            "borderWidth": "0px",
+                                            "borderColor": "black",
+                                            "borderRadius": "20px"
+                                        }
+                                    }
+                                }
+                            ]
                         }
                     ]
                 }
