@@ -63,50 +63,15 @@
 6/2/2021, 1:53:29 PM - INFO - Server is running on port: 3030 
 6/2/2021, 1:59:55 PM - INFO - Server is running on port: 3030 
 02/06/2021, 14:28:26 - INFO - Server is running on port: 3030 
-6/2/2021, 5:00:28 PM - INFO - Server is running on port: 3030 
-6/2/2021, 5:16:58 PM - ERROR - Failed to update toy | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 5:16:58 PM - ERROR - Failed to update wap | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 5:16:58 PM - ERROR - Failed to update toy | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 5:16:58 PM - ERROR - Failed to update wap | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 5:16:58 PM - ERROR - Failed to update toy | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 5:16:58 PM - ERROR - Failed to update wap | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 5:16:58 PM - ERROR - Failed to update toy | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 5:16:58 PM - ERROR - Failed to update wap | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 5:16:58 PM - ERROR - Failed to update toy | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 5:16:58 PM - ERROR - Failed to update wap | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 5:16:58 PM - ERROR - Failed to update toy | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 5:16:58 PM - ERROR - Failed to update wap | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 5:16:58 PM - ERROR - Failed to update toy | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 5:16:58 PM - ERROR - Failed to update wap | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 5:16:59 PM - ERROR - Failed to update toy | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 5:16:59 PM - ERROR - Failed to update wap | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 5:16:59 PM - ERROR - Failed to update toy | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 5:16:59 PM - ERROR - Failed to update wap | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 5:16:59 PM - ERROR - Failed to update toy | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 5:16:59 PM - ERROR - Failed to update wap | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 5:16:59 PM - ERROR - Failed to update toy | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 5:16:59 PM - ERROR - Failed to update wap | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 6:49:56 PM - ERROR - Failed to update toy | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 6:49:56 PM - ERROR - Failed to update wap | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 6:49:56 PM - ERROR - Failed to update toy | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 6:49:56 PM - ERROR - Failed to update wap | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 6:49:56 PM - ERROR - Failed to update toy | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 6:49:56 PM - ERROR - Failed to update wap | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 6:49:56 PM - ERROR - Failed to update toy | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 6:49:56 PM - ERROR - Failed to update wap | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 6:49:56 PM - ERROR - Failed to update toy | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 6:49:56 PM - ERROR - Failed to update wap | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 6:49:56 PM - ERROR - Failed to update toy | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 6:49:56 PM - ERROR - Failed to update wap | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 6:49:56 PM - ERROR - Failed to update toy | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 6:49:56 PM - ERROR - Failed to update wap | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 6:49:56 PM - ERROR - Failed to update toy | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 6:49:56 PM - ERROR - Failed to update wap | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 6:49:56 PM - ERROR - Failed to update toy | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 6:49:56 PM - ERROR - Failed to update wap | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 6:49:57 PM - ERROR - Failed to update toy | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 6:49:57 PM - ERROR - Failed to update wap | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 6:49:57 PM - ERROR - Failed to update toy | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 6:49:57 PM - ERROR - Failed to update wap | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
-6/2/2021, 6:54:37 PM - INFO - Server is running on port: 3030 
-6/3/2021, 12:06:22 PM - INFO - Server is running on port: 3030 
+02/06/2021, 21:14:42 - INFO - Server is running on port: 3030 
+02/06/2021, 22:22:02 - INFO - Server is running on port: 3030 
+02/06/2021, 22:22:27 - INFO - Server is running on port: 3030 
+03/06/2021, 2:24:17 - INFO - Server is running on port: 3030 
+03/06/2021, 8:42:21 - INFO - Server is running on port: 3030 
+04/06/2021, 8:57:06 - INFO - Server is running on port: 3030 
+6/5/2021, 1:35:15 PM - INFO - Server is running on port: 3030 
+6/5/2021, 2:15:02 PM - INFO - Server is running on port: 3030 
+6/5/2021, 2:18:45 PM - INFO - Server is running on port: 3030 
+6/5/2021, 2:19:43 PM - INFO - Server is running on port: 3030 
+6/5/2021, 2:21:41 PM - INFO - Server is running on port: 3030 
+6/5/2021, 3:21:13 PM - INFO - Server is running on port: 3030 

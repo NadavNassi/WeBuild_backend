@@ -18,7 +18,8 @@ async function query() {
 async function createWap(wap) {
     try {
         const collection = await dbService.getCollection(collectionName)
-        wap.isPublic = wap.isEdit = true
+        wap.isEdit = true
+        wap.isPublic = false
         res = await collection.insertOne(wap)
         return res.ops
     } catch (err) {
@@ -33,7 +34,6 @@ async function updateWap(wap) {
     try {
         const collection = await dbService.getCollection(collectionName)
         await collection.updateOne({ '_id': ObjectId(_id) }, { $set: { ...wap, _id: ObjectId(_id) } })
-        console.log("🚀 ~ file: wap.service.js ~ line 24 ~ updateWap ~ updatedWap", wap)
         return wap;
     } catch (err) {
         logger.error('Failed to update toy', err)
