@@ -69,78 +69,9 @@
 03/06/2021, 2:24:17 - INFO - Server is running on port: 3030 
 03/06/2021, 8:42:21 - INFO - Server is running on port: 3030 
 04/06/2021, 8:57:06 - INFO - Server is running on port: 3030 
-<<<<<<< HEAD
 04/06/2021, 8:58:16 - INFO - Server is running on port: 3030 
 04/06/2021, 16:47:24 - INFO - Server is running on port: 3030 
 05/06/2021, 11:32:35 - INFO - Server is running on port: 3030 
 05/06/2021, 11:41:53 - INFO - Server is running on port: 3030 
 05/06/2021, 17:11:04 - INFO - Server is running on port: 3030 
 05/06/2021, 18:23:04 - INFO - Server is running on port: 3030 
-=======
-6/5/2021, 1:35:15 PM - INFO - Server is running on port: 3030 
-6/5/2021, 2:15:02 PM - INFO - Server is running on port: 3030 
-6/5/2021, 2:18:45 PM - INFO - Server is running on port: 3030 
-6/5/2021, 2:19:43 PM - INFO - Server is running on port: 3030 
-6/5/2021, 2:21:41 PM - INFO - Server is running on port: 3030 
-6/5/2021, 5:00:09 PM - INFO - Server is running on port: 3030 
-6/5/2021, 7:21:16 PM - INFO - Server is running on port: 3030 
-6/5/2021, 7:21:29 PM - INFO - Server is running on port: 3030 
-6/5/2021, 7:39:28 PM - INFO - Server is running on port: 3030 
-6/6/2021, 8:21:58 AM - INFO - Server is running on port: 3030 
-6/6/2021, 4:19:51 PM - INFO - Server is running on port: 3030 
-6/6/2021, 5:44:51 PM - INFO - Server is running on port: 3030 
-6/6/2021, 5:45:23 PM - INFO - Server is running on port: 3030 
-6/6/2021, 7:16:01 PM - INFO - Server is running on port: 3030 
-6/6/2021, 7:38:45 PM - INFO - Server is running on port: 3030 
-6/7/2021, 8:28:41 AM - INFO - Server is running on port: 3030 
-6/7/2021, 1:21:55 PM - INFO - Server is running on port: 3030 
-6/7/2021, 4:56:05 PM - INFO - Server is running on port: 3030 
-6/7/2021, 4:56:32 PM - INFO - Server is running on port: 3030 
-6/7/2021, 5:55:42 PM - INFO - Server is running on port: 3030 
-6/7/2021, 5:57:13 PM - INFO - Server is running on port: 3030 
-6/7/2021, 5:58:22 PM - INFO - Server is running on port: 3030 
-6/7/2021, 6:03:03 PM - INFO - Server is running on port: 3030 
-6/7/2021, 6:06:18 PM - INFO - Server is running on port: 3030 
-6/7/2021, 6:32:16 PM - INFO - Server is running on port: 3030 
-6/7/2021, 6:36:25 PM - INFO - Server is running on port: 3030 
-6/7/2021, 6:37:34 PM - INFO - Server is running on port: 3030 
-6/7/2021, 6:40:14 PM - INFO - Server is running on port: 3030 
-6/7/2021, 7:14:51 PM - INFO - Server is running on port: 3030 
-6/7/2021, 8:18:02 PM - INFO - Server is running on port: 3030 
-6/7/2021, 8:54:37 PM - ERROR - Failed to get waps | MongoServerSelectionError: getaddrinfo ENOTFOUND webuild-shard-00-00.x31ee.mongodb.net 
-6/7/2021, 8:54:37 PM - ERROR - Failed to get toys | MongoServerSelectionError: getaddrinfo ENOTFOUND webuild-shard-00-00.x31ee.mongodb.net 
-6/7/2021, 8:55:07 PM - ERROR - Failed to get cmps | MongoServerSelectionError: getaddrinfo ENOTFOUND webuild-shard-00-00.x31ee.mongodb.net 
-6/7/2021, 8:55:07 PM - ERROR - Failed to get cmps | MongoServerSelectionError: getaddrinfo ENOTFOUND webuild-shard-00-00.x31ee.mongodb.net 
-6/7/2021, 8:56:06 PM - ERROR - Failed to get waps | MongoServerSelectionError: getaddrinfo ENOTFOUND webuild-shard-00-00.x31ee.mongodb.net 
-6/7/2021, 8:56:06 PM - ERROR - Failed to get toys | MongoServerSelectionError: getaddrinfo ENOTFOUND webuild-shard-00-00.x31ee.mongodb.net 
-6/7/2021, 8:56:36 PM - ERROR - Failed to get cmps | MongoServerSelectionError: getaddrinfo ENOTFOUND webuild-shard-00-00.x31ee.mongodb.net 
-6/7/2021, 8:56:36 PM - ERROR - Failed to get cmps | MongoServerSelectionError: getaddrinfo ENOTFOUND webuild-shard-00-00.x31ee.mongodb.net 
-6/7/2021, 8:57:00 PM - ERROR - Failed to get waps | MongoServerSelectionError: getaddrinfo ENOTFOUND webuild-shard-00-00.x31ee.mongodb.net 
-6/7/2021, 8:57:00 PM - ERROR - Failed to get toys | MongoServerSelectionError: getaddrinfo ENOTFOUND webuild-shard-00-00.x31ee.mongodb.net 
-6/7/2021, 8:57:29 PM - ERROR - Failed to get waps | MongoServerSelectionError: getaddrinfo ENOTFOUND webuild-shard-00-00.x31ee.mongodb.net 
-6/7/2021, 8:57:29 PM - ERROR - Failed to get toys | MongoServerSelectionError: getaddrinfo ENOTFOUND webuild-shard-00-00.x31ee.mongodb.net 
-6/7/2021, 8:57:54 PM - ERROR - Failed to get waps | MongoServerSelectionError: getaddrinfo ENOTFOUND webuild-shard-00-00.x31ee.mongodb.net 
-6/7/2021, 8:57:54 PM - ERROR - Failed to get toys | MongoServerSelectionError: getaddrinfo ENOTFOUND webuild-shard-00-00.x31ee.mongodb.net 
-6/7/2021, 8:58:02 PM - INFO - Server is running on port: 3030 
-6/7/2021, 8:58:02 PM - ERROR - Cannot Connect to DB | Error: querySrv ECONNREFUSED _mongodb._tcp.webuild.x31ee.mongodb.net 
-6/7/2021, 8:58:02 PM - ERROR - Failed to get Mongo collection | Error: querySrv ECONNREFUSED _mongodb._tcp.webuild.x31ee.mongodb.net 
-6/7/2021, 8:58:02 PM - ERROR - Failed to get waps | Error: querySrv ECONNREFUSED _mongodb._tcp.webuild.x31ee.mongodb.net 
-6/7/2021, 8:58:02 PM - ERROR - Failed to get toys | Error: querySrv ECONNREFUSED _mongodb._tcp.webuild.x31ee.mongodb.net 
-6/7/2021, 8:58:02 PM - ERROR - Cannot Connect to DB | Error: querySrv EDESTRUCTION _mongodb._tcp.webuild.x31ee.mongodb.net 
-6/7/2021, 8:58:02 PM - ERROR - Failed to get Mongo collection | Error: querySrv EDESTRUCTION _mongodb._tcp.webuild.x31ee.mongodb.net 
-6/7/2021, 8:58:02 PM - ERROR - Failed to get cmps | Error: querySrv EDESTRUCTION _mongodb._tcp.webuild.x31ee.mongodb.net 
-6/7/2021, 8:58:02 PM - ERROR - Failed to get cmps | Error: querySrv EDESTRUCTION _mongodb._tcp.webuild.x31ee.mongodb.net 
-6/7/2021, 8:58:02 PM - ERROR - Cannot Connect to DB | Error: querySrv ECONNREFUSED _mongodb._tcp.webuild.x31ee.mongodb.net 
-6/7/2021, 8:58:02 PM - ERROR - Failed to get Mongo collection | Error: querySrv ECONNREFUSED _mongodb._tcp.webuild.x31ee.mongodb.net 
-6/7/2021, 8:58:02 PM - ERROR - Failed to get waps | Error: querySrv ECONNREFUSED _mongodb._tcp.webuild.x31ee.mongodb.net 
-6/7/2021, 8:58:02 PM - ERROR - Failed to get toys | Error: querySrv ECONNREFUSED _mongodb._tcp.webuild.x31ee.mongodb.net 
-6/7/2021, 8:58:02 PM - ERROR - Cannot Connect to DB | Error: querySrv ECONNREFUSED _mongodb._tcp.webuild.x31ee.mongodb.net 
-6/7/2021, 8:58:02 PM - ERROR - Failed to get Mongo collection | Error: querySrv ECONNREFUSED _mongodb._tcp.webuild.x31ee.mongodb.net 
-6/7/2021, 8:58:02 PM - ERROR - Failed to get waps | Error: querySrv ECONNREFUSED _mongodb._tcp.webuild.x31ee.mongodb.net 
-6/7/2021, 8:58:02 PM - ERROR - Failed to get toys | Error: querySrv ECONNREFUSED _mongodb._tcp.webuild.x31ee.mongodb.net 
-6/7/2021, 8:58:02 PM - ERROR - Cannot Connect to DB | Error: querySrv ECONNREFUSED _mongodb._tcp.webuild.x31ee.mongodb.net 
-6/7/2021, 8:58:02 PM - ERROR - Failed to get Mongo collection | Error: querySrv ECONNREFUSED _mongodb._tcp.webuild.x31ee.mongodb.net 
-6/7/2021, 8:58:02 PM - ERROR - Failed to get cmps | Error: querySrv ECONNREFUSED _mongodb._tcp.webuild.x31ee.mongodb.net 
-6/7/2021, 8:58:02 PM - ERROR - Failed to get cmps | Error: querySrv ECONNREFUSED _mongodb._tcp.webuild.x31ee.mongodb.net 
-6/8/2021, 8:52:19 AM - INFO - Server is running on port: 3030 
->>>>>>> 74c681418733fed9615475f0c3e89612f6c917a7
