@@ -52,13 +52,6 @@ function connectSockets(http, session) {
             // emits only to sockets in the same room
             // gIo.to(socket.myTopic).emit('update wap', wap)
         })
-        socket.on('store update', msg => {
-            gIo.broadcast.emit('notify users', msg)
-        })
-        socket.on('user-watch', userId => {
-            socket.join(userId)
-        })
-
     })
 }
 
