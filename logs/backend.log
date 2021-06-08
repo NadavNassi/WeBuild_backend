@@ -135,3 +135,7 @@
 6/7/2021, 8:58:02 PM - ERROR - Failed to get cmps | Error: querySrv ECONNREFUSED _mongodb._tcp.webuild.x31ee.mongodb.net 
 6/7/2021, 8:58:02 PM - ERROR - Failed to get cmps | Error: querySrv ECONNREFUSED _mongodb._tcp.webuild.x31ee.mongodb.net 
 6/8/2021, 8:52:19 AM - INFO - Server is running on port: 3030 
+6/8/2021, 9:03:09 AM - INFO - Server is running on port: 3030 
+6/8/2021, 9:05:08 AM - INFO - Server is running on port: 3030 
+6/8/2021, 9:06:34 AM - INFO - Server is running on port: 3030 
+6/8/2021, 9:07:54 AM - INFO - Server is running on port: 3030 

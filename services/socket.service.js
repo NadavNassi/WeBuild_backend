@@ -42,8 +42,8 @@ function connectSockets(http, session) {
             console.log('here with updated wap');
             socket.broadcast.to(socket.roomId).emit('update wap', wap)
         })
-        socket.on('mouse_position', (data)=> {
-            socket.broadcast.emit('mouse_position_update', data);
+        socket.on('mouse move', pos => {
+            socket.broadcast.to(socket.roomId).emit('mouse_position_update', pos);
         });
         socket.on('change wap', wap => {
             console.log('wap', wap);
