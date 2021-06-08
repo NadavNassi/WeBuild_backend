@@ -28,21 +28,29 @@ function connectSockets(http, session) {
                 gSocketBySessionIdMap[socket.handshake.sessionID] = null
             }
         })
-        socket.on('editor id', topic => {
-            if (socket.myTopic === topic) return;
-            if (socket.myTopic) {
-                socket.leave(socket.myTopic)
+        socket.on('editor id', roomId => {
+            if (socket.roomId === roomId) return;
+            if (socket.roomId) {
+                socket.leave(socket.roomId)
             }
-            socket.join(topic)
-            logger.debug('Session ID is', socket.handshake.sessionID)
-            socket.myTopic = topic
+            socket.join(roomId)
+            socket.roomId = roomId
+            console.log('roomId', roomId);
         })
+
+        socket.on('update wap', (wap) => {
+            console.log('here with updated wap');
+            socket.broadcast.to(socket.roomId).emit('update wap', wap)
+        })
+        socket.on('mouse_position', (data)=> {
+            socket.broadcast.emit('mouse_position_update', data);
+        });
         socket.on('change wap', wap => {
             console.log('wap', wap);
             // emits to all sockets:
             // gIo.emit('chat addwap', wap)
             // emits only to sockets in the same room
-            gIo.to(socket.myTopic).emit('update wap', wap)
+            // gIo.to(socket.myTopic).emit('update wap', wap)
         })
         socket.on('store update', msg => {
             gIo.broadcast.emit('notify users', msg)
