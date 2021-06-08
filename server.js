@@ -2,6 +2,8 @@ const express = require('express')
 const cors = require('cors')
 const path = require('path')
 const expressSession = require('express-session')
+const { connectSockets } = require('./services/socket.service')
+
 
 const app = express()
 const http = require('http').createServer(app)
@@ -39,6 +41,8 @@ app.get('/api/setup-session', (req, res) => {
     console.log('setup-session:', req.sessionID);
     res.end()
 })
+
+connectSockets(http, session)
 
 
 // connectSockets(http, session)
