@@ -1,5 +1,3 @@
-
-
 const asyncLocalStorage = require('./als.service');
 const logger = require('./logger.service');
 
@@ -18,12 +16,11 @@ function connectSockets(http, session) {
     gIo.use(sharedSession(session, {
         autoSave: true
     }));
+    
     gIo.on('connection', socket => {
         console.log('New socket - socket.handshake.sessionID', socket.handshake.sessionID)
         gSocketBySessionIdMap[socket.handshake.sessionID] = socket
-        // if (socket.handshake?.session?.user) socket.join(socket.handshake.session.user._id)
         socket.on('disconnect', socket => {
-            console.log('Someone disconnected')
             if (socket.handshake) {
                 gSocketBySessionIdMap[socket.handshake.sessionID] = null
             }
@@ -37,9 +34,7 @@ function connectSockets(http, session) {
             socket.roomId = roomId
             console.log('roomId', roomId);
         })
-
         socket.on('update wap', (wap) => {
-            console.log('here with updated wap');
             socket.broadcast.to(socket.roomId).emit('update wap', wap)
         })
         socket.on('mouse move', pos => {
@@ -52,6 +47,7 @@ function connectSockets(http, session) {
             // emits only to sockets in the same room
             // gIo.to(socket.myTopic).emit('update wap', wap)
         })
+        
         socket.on('store update', msg => {
             gIo.broadcast.emit('notify users', msg)
         })
