@@ -5,6 +5,7 @@ const logger = require('./logger.service');
 
 var gIo = null
 var gSocketBySessionIdMap = {}
+//
 
 function connectSockets(http, session) {
     gIo = require('socket.io')(http, {
